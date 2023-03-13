@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d4f4865f.chunk.css",
+    "main.js": "/static/js/main.14ef33b7.chunk.js",
+    "main.js.map": "/static/js/main.14ef33b7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c20a73d5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c20a73d5.js.map",
+    "static/js/2.90aed976.chunk.js": "/static/js/2.90aed976.chunk.js",
+    "static/js/2.90aed976.chunk.js.map": "/static/js/2.90aed976.chunk.js.map",
+    "static/js/3.6c10cc16.chunk.js": "/static/js/3.6c10cc16.chunk.js",
+    "static/js/3.6c10cc16.chunk.js.map": "/static/js/3.6c10cc16.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d4f4865f.chunk.css.map": "/static/css/main.d4f4865f.chunk.css.map",
+    "static/js/2.90aed976.chunk.js.LICENSE.txt": "/static/js/2.90aed976.chunk.js.LICENSE.txt",
+    "static/media/404.31302e69.PNG": "/static/media/404.31302e69.PNG",
+    "static/media/Dubem's journey map.f7401034.png": "/static/media/Dubem's journey map.f7401034.png",
+    "static/media/Libary and profile.61c6b049.png": "/static/media/Libary and profile.61c6b049.png",
+    "static/media/Personas.0a5eedbe.png": "/static/media/Personas.0a5eedbe.png",
+    "static/media/aiwe.a127c8c5.png": "/static/media/aiwe.a127c8c5.png",
+    "static/media/chart.4b0e9609.jpeg": "/static/media/chart.4b0e9609.jpeg",
+    "static/media/color.bc5b4b1c.png": "/static/media/color.bc5b4b1c.png",
+    "static/media/home clubs and group screen.141909cc.png": "/static/media/home clubs and group screen.141909cc.png",
+    "static/media/researching.430fb44b.svg": "/static/media/researching.430fb44b.svg",
+    "static/media/resume.40ad0987.pdf": "/static/media/resume.40ad0987.pdf",
+    "static/media/signin and signup screens.634054e5.png": "/static/media/signin and signup screens.634054e5.png",
+    "static/media/social.00c12461.svg": "/static/media/social.00c12461.svg",
+    "static/media/vivians journey map.b5c080d3.png": "/static/media/vivians journey map.b5c080d3.png",
+    "static/media/work (1).454ce890.jpg": "/static/media/work (1).454ce890.jpg",
+    "static/media/work (2).ac070085.jpg": "/static/media/work (2).ac070085.jpg",
+    "static/media/work (3).7d6f420f.jpg": "/static/media/work (3).7d6f420f.jpg",
+    "static/media/work (4).93280232.jpg": "/static/media/work (4).93280232.jpg",
+    "static/media/work (5).4e66442d.jpg": "/static/media/work (5).4e66442d.jpg",
+    "static/media/work (6).815cc2e7.jpg": "/static/media/work (6).815cc2e7.jpg",
+    "static/media/work (7).77662c5b.jpg": "/static/media/work (7).77662c5b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c20a73d5.js",
+    "static/js/2.90aed976.chunk.js",
+    "static/css/main.d4f4865f.chunk.css",
+    "static/js/main.14ef33b7.chunk.js"
+  ]
+}
